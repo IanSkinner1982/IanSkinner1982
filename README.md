@@ -1,3 +1,8 @@
 ### Welcome to my github profile
 
-I don't know what to put here yet, so just look at the projects below.
+Hi! I'm Ian, and I make software for the Commodore 64.
+
+If you want to talk to me, or learn about my projects, I reccomend you visit my Discord server. https://discord.gg/kJac2ty
+
+Enjoy my stuff!
+- IanSkinner1982
