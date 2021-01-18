@@ -1,8 +1,10 @@
 ### Welcome to my github profile
 
-Hi! I'm Ian, and I make software for the Commodore 64.
+Hi! I'm Ian. 
 
-If you want to talk to me or talk about my projects, I recommend you visit my Discord server. https://discord.gg/kJac2ty
+You can usually find me making software for the Commodore 64 or playing on my DSi. I'm a moderator on [a Commodore server](https://discord.gg/8Dy2h4vHzY) on Discord and a  member of [@NCX-Programming](https://github.com/NCX-Programming/). (I write the news and readmes.)
+If you want to see what I'm currently working on, look [here](https://github.com/IanSkinner1982/Cookie-Clicker-C64).
+Also check out my [Discord server](https://discord.gg/kJac2ty).
 
-Enjoy my stuff!
+Have fun looking around!
 -IanSkinner1982
